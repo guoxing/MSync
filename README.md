@@ -1,4 +1,4 @@
 MSync
 =====
 
-sync ctools resources to your local drive
+Sync your Ctools resources to your local drive without tedious clicks!
