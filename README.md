@@ -20,8 +20,6 @@ Simply run:
 
     php gui.php
 
-You can also make a shell script to run it without using command line.
-
 Besides that, if you feel uncomfortable with PHP-GTK, you can look into utility.php and create your script version.
 
 ##Further work
