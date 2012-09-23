@@ -22,8 +22,6 @@ Simply run:
 
 You can also make a shell script to run it without using command line.
 
-Besides that, if you feel uncomfortable with PHP-GTK, you can look into utility.php and create your script version.
-
 ##Further work
 
 Since it's hard to get PHP-GTK working, if I have spare time, I would like to migrate the code to Java. Let me know if you are insterested!.
