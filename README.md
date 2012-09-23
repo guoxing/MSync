@@ -3,7 +3,7 @@ MSync
 
 Sync your Ctools resources to your local drive without tedious clicks!
 
-Current version is working under ubuntu 12.04-LTE. You are welcome to try it out in different OS, but it is unlikely to be working under Windows.
+Current version is working under ubuntu 12.04-LTS. You are welcome to try it out in different OS, but it is unlikely to be working under Windows.
 
 ##Installation
 
